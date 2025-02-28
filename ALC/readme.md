@@ -1,4 +1,5 @@
 # AliCoin - A Simplified Blockchain Simulation
+<img src='https://github.com/sidmodz/Blockchain-Projects/blob/main/ALC/ALC.webp'>
 
 ## Introduction
 AliCoin is a lightweight cryptocurrency simulation designed to demonstrate fundamental blockchain concepts using Proof-of-Work (PoW). This project implements a functional blockchain with key features such as account management, transaction handling, mining, and Merkle Tree-based transaction verification.
