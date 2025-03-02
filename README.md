@@ -30,6 +30,7 @@ Before running any of these projects, ensure you have the following installed an
 A lightweight cryptocurrency simulation that showcases the fundamental principles of blockchain, including transaction handling, Proof-of-Work mining, and Merkle Tree verification.
 
 **Key Features:**
+
 ✅ Custom blockchain implementation with blocks linked by cryptographic hashes  
 ✅ Proof-of-Work (PoW) mining system with adjustable difficulty  
 ✅ Transaction validation and account management  
@@ -42,6 +43,7 @@ A lightweight cryptocurrency simulation that showcases the fundamental principle
 Analyzing real Ethereum transaction data from a one-week period (Nov 8-14, 2017). This project extracts insights on transaction volume, gas fees, block creation rates, and Ether price trends.
 
 **Key Features:**
+
 ✅ Data loading and preprocessing from raw Ethereum transaction datasets  
 ✅ Aggregating and summarizing transaction statistics  
 ✅ Analyzing block creation rates and gas fees  
@@ -53,6 +55,7 @@ Analyzing real Ethereum transaction data from a one-week period (Nov 8-14, 2017)
 A Python-based implementation for sending Ethereum transactions on the **Base Sepolia** testnet using Web3.py.
 
 **Key Features:**
+
 ✅ Connect to Base Sepolia via **Infura**  
 ✅ Create and sign Ethereum transactions using a **private key**  
 ✅ Send **0.01 ETH** to a recipient wallet  
@@ -65,13 +68,14 @@ A Python-based implementation for sending Ethereum transactions on the **Base Se
 This project demonstrates how to write, deploy, and interact with **Solidity smart contracts** using Web3.py.
 
 **Key Features:**
+
 ✅ Solidity contract to store and update user **name** and **age**  
 ✅ Compilation and deployment on **Base Sepolia**  
 ✅ Interaction via Web3.py (read/write operations)  
 ✅ Secure **contract execution** with proper validation  
+
 ---
 
 ## **⚠️ Security Notes**
 🔒 **Never expose private keys** in public repositories. Use `.env` files or a secure vault.  
-🔒 All smart contract transactions should be tested on the **Base Sepolia testnet** before deploying on the mainnet.  
 
