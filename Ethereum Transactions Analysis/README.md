@@ -1,4 +1,4 @@
-# **Ethereum Transaction Analysis (November 8-14, 2017)**
+# **Ethereum Transaction Analysis**
 
 ## **Overview**
 This project analyzes Ethereum blockchain transactions over a one-week period (November 8-14, 2017). The dataset is sourced from Blockchair and contains detailed transaction records, including block IDs, timestamps, transaction values, fees, and gas usage. The analysis provides insights into transaction trends, fees, and block creation patterns.
@@ -31,6 +31,4 @@ The dataset consists of seven `.tsv` files, each representing one day's worth of
 - Average transaction fees by day and hour.
 - Block creation frequency over time.
 - Ethereum price trends during the analysis period.
-
-   ```
 
