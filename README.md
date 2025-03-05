@@ -1,6 +1,6 @@
 # **Blockchain Projects Repository**
 
-Welcome to the **Blockchain Projects Repository**! 🚀 This repository contains multiple blockchain-related projects, each demonstrating key concepts in cryptocurrency, Ethereum transactions, smart contract development, and blockchain analysis.
+Welcome to the **Blockchain Projects Repository**! 🚀 This repository contains multiple blockchain-related projects using python, each demonstrating key concepts in cryptocurrency, Ethereum transactions, smart contract development, and blockchain analysis.
 
 ## **📂 Repository Structure**
 This repository is organized into four main folders:
